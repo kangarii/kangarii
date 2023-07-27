@@ -6,7 +6,7 @@
 
 - 🌱 I'm learning about technology
 - 🎓 I'm a self-taught enhtusiast about programming
-- ⚡ Fun fact ~ Let's get started
+- ⚡ Fun fact toilet is a best place to solve a problem
 
 ### Learn :
 
