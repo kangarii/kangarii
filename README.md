@@ -26,5 +26,6 @@
     <img src="https://img.shields.io/badge/Thinkpad-T540P-Laptop?logo=Thinkpad&color=%23546969">
     <img src="https://img.shields.io/badge/Windows%2010-windows?logo=windows&logoColor=blue&color=%23546969">
     <img src="https://img.shields.io/badge/VS%20Code-Visual%20Studio%20Code?logo=visual%20studio&logoColor=blue&color=%23546969">
+    <img src="https://img.shields.io/badge/NodeJS-JS?logo=node.js&color=%23546969">
 </p>
   
